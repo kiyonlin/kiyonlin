@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💴 I'm a software engineer currently working on `DDoS` protection
-- 👷 I'm contributing to [gofiber](https://github.com/gofiber)
+- 👷 I'm currently a member of [gofiber](https://github.com/gofiber)
 
 <!--
 **kiyonlin/kiyonlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

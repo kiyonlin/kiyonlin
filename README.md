@@ -3,6 +3,8 @@
 - 💴 I'm a software engineer currently working on `DDoS` protection
 - 👷 I'm currently a member of [gofiber](https://github.com/gofiber)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=kiyonlin&show_icons=true)
+
 <!--
 **kiyonlin/kiyonlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

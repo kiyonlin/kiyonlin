@@ -2,7 +2,7 @@
 
 - 💴 I'm a software engineer currently working on `DDoS` protection
 - 👷 I'm currently a member of [gofiber](https://github.com/gofiber)
-- 🔥 I'm author of [go-dawn](https://github.com/go-dawn) and [gonetx](https://github.com/kiyonlin/gonetx)/[ipset](https://github.com/kiyonlin/gonetx/blob/master/ipset/README.md)
+- 🔥 I'm author of [go-dawn](https://github.com/go-dawn) and [gonetx](https://github.com/gonetx)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kiyonlin&show_icons=true)
 
